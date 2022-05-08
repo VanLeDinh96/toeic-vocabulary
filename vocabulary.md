@@ -21,3 +21,4 @@ the rear window
 19. essential (adjective)
 20. alternative (adjective)
 21. well-being
+22. proper (adjective)
