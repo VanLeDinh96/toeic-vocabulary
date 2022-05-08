@@ -5,3 +5,4 @@
 4. extreme (adjective)
 5. strategy (noun)
 6. to outsell
+7. competitor (noun)
