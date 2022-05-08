@@ -44,3 +44,6 @@ the rear window
 39. lobby (noun)
 40. to recommend
 - Mr.Ross, who is repainting the interior of the lobby, was recommended by a friend of the building manager.
+- The guidelines for the month publication are periodically revised to adapt to the changing readers
+41. courteously
+42. 
