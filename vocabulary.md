@@ -40,3 +40,7 @@ the rear window
 - the sprinklers for the lawn's irrigation system are mechanically controlled
 37. patrons
 - the library staff posted signs to notify patrons of the upcoming closure for renovations
+38. interior (noun)
+39. lobby (noun)
+40. to recommend
+- Mr.Ross, who is repainting the interior of the lobby, was recommended by a friend of the building manager.
