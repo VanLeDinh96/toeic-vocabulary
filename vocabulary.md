@@ -15,3 +15,9 @@
 the rear window
 14. side-view mirrors
 15. to avoid
+16. ventilation (noun)
+17. cooperative (adjective)
+18. visible (adjective)
+19. essential (adjective)
+20. alternative (adjective)
+21. well-being
