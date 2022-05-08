@@ -3,3 +3,4 @@
 2. suburban (noun)
 3. downtown (noun)
 4. extreme (adjective)
+5. strategy (noun)
