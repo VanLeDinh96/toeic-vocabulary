@@ -22,3 +22,13 @@ the rear window
 20. alternative (adjective)
 21. well-being
 22. proper (adjective)
+23. in addition to + noun
+24. in keeping with + noun
+25. the fact that + S + V
+26. as long as + S + V
+27. junk food
+28. steady
+29. to decline
+30. to indicate
+31. consumer
+32. health-conscious
