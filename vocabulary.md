@@ -50,4 +50,5 @@ the rear window
 43. even if + S + V
 44. whether S + V (2 statuses)
 45. given that S + V
-- The governmental department used to provide financial aid, but now it offers legal services only
+- The governmental department used to provide financial aid, but now it offers legal services only.
+- The company started to recognize the increasing importance of using resources responsibly.
