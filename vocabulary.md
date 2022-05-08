@@ -37,4 +37,4 @@ the rear window
 34. sprinkler (noun)
 35. lawn (noun)
 36. irrigation (noun)
-- the sprinklers for the lawn's irrigation system
+- the sprinklers for the lawn's irrigation system are mechanically controlled
