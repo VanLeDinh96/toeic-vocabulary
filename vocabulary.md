@@ -6,3 +6,6 @@
 5. strategy (noun)
 6. to outsell
 7. competitor (noun)
+8. to address
+9. a brief video
+10. engine (noun)
