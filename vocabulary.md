@@ -46,4 +46,7 @@ the rear window
 - Mr.Ross, who is repainting the interior of the lobby, was recommended by a friend of the building manager.
 - The guidelines for the month publication are periodically revised to adapt to the changing readers
 41. courteously
-42. 
+42. in spite of + noud
+43. even if + S + V
+44. whether S + V (2 statuses)
+45. given that S + V
