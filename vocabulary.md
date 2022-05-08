@@ -13,3 +13,4 @@
 12. to obstruct
 13. rear (adjective)
 14. side-view mirrors
+15. to avoid
