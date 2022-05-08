@@ -39,4 +39,4 @@ the rear window
 36. irrigation (noun)
 - the sprinklers for the lawn's irrigation system are mechanically controlled
 37. patrons
-- patrons of the upcoming closure for renovations
+- the library staff posted signs to notify patrons of the upcoming closure for renovations
