@@ -34,3 +34,7 @@ the rear window
 32. health-conscious
 33. sales (noun)
 - sales of junk food
+34. sprinkler (noun)
+35. lawn (noun)
+36. irrigation (noun)
+- the sprinklers for the lawn's irrigation system
