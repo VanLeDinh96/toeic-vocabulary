@@ -70,7 +70,7 @@ the rear window
 49. boutique (noun)
 - You'll find it all at this stylish online boutique.
 - If you prefer a boutique or private label wine, visit the restaurant's private cellar.
-- the upscale boutique
+- the upscale boutique Jane's Closet is known for selling the most stylish accessories for young professionals.
 50. accessory (noun)
 - Don't underestimate the power of an attractive accessory.
 - If your suit is a solid color, add an accessory or two to liven up your look.
