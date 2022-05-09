@@ -79,7 +79,10 @@ the rear window
 - The company started to recognize the increasing importance of using resources responsibly.
 - I recognize the molding and cornices.
 - The security system didn't recognize her thumbprint.
-52. to restruct
+52. to restructure
+- During the repayment period, individuals may be restricted from opening new accounts and their finances will be periodically monitored as the counselor works with them to restructure their spending habits.
+- It is extremely positive about the Indian government 's endeavor to restructure debt, which will bring down borrowing costs.
+- Therefore a need may arise to restructure the curriculum and adapt teaching methods to match the continuous and reflective nature of portfolio assessments.
 53. miscommunication
 - They have to say exactly what they mean or risk miscommunication.
 - Cultural miscommunication can occur when someone does not understand why the other person just made a face.
