@@ -81,3 +81,6 @@ the rear window
 - The security system didn't recognize her thumbprint.
 52. to restruct
 53. miscommunication
+- They have to say exactly what they mean or risk miscommunication.
+- Cultural miscommunication can occur when someone does not understand why the other person just made a face.
+- So when one partner is ambitious, say at work and the other partner is longing to be with him, miscommunication is inevitable.
