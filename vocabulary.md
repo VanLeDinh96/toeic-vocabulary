@@ -72,3 +72,6 @@ the rear window
 - If you prefer a boutique or private label wine, visit the restaurant's private cellar.
 - the upscale boutique
 50. accessory (noun)
+- Don't underestimate the power of an attractive accessory.
+- If your suit is a solid color, add an accessory or two to liven up your look.
+- Boots are a chic way to dress any outfit up or down and absolute appropriate as an accessory for rain gear.
