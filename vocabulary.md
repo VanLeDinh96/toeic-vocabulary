@@ -59,3 +59,6 @@ the rear window
 - There is a dispute as to his real desings.
 - They had not yet had a loud conversation among the men and a dispute about something important and clever.
 47. complimentary (adjective)
+- The supermarket operates a complimentary shuttle service.
+- She made some highly complimentary remarks about their school.
+- There was a complimentary bottle of champagne in the hotel room.
