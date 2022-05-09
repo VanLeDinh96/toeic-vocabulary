@@ -141,3 +141,11 @@ the rear window
 - The film features Cary Grant as a professor.
 - Many of the hotels featured in the brochure offer special deals for weekend breaks.
 - It will feature speaker James.
+66. steep (adjective)
+- She screamed again as she tumbled down a steep hill.
+- Down these steep slopes we used to coast.
+- At the end of the hall, a steep set of stairs led to the attic.
+67. landlord (noun)
+- If the tenant paid his rent, the landlord could not forbid subletting.
+- Was it merely coincidence that her lease would be up next Friday and the landlord was raising the rent?
+- A landlord is not presumed to have undertaken to put the premises in repair, nor to execute repairs.
