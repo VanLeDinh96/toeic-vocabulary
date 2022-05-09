@@ -115,6 +115,11 @@ the rear window
 - He was in the stage play Boo!
 - She has now reached the question stage of her development.
 - The only business experience she had was the goat dairy, the non-functional farm and a horse ranch that had been in the fetal stage for years.
-61. trial
-62. medication
-63. subjects
+61. trial (noun)
+- He would simply have to learn by trial and error.
+- He may turn pale when the trial comes.
+- He was sent for trial and condemned to hard labor, I believe.
+62. subject (noun)
+- She forced the subject from her mind.
+- That was the end of the conversation and neither of them brought the subject up again that night.
+- It's a subject I'd rather not discuss.
