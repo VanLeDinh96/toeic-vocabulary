@@ -149,4 +149,3 @@ the rear window
 - If the tenant paid his rent, the landlord could not forbid subletting.
 - Was it merely coincidence that her lease would be up next Friday and the landlord was raising the rent?
 - A landlord is not presumed to have undertaken to put the premises in repair, nor to execute repairs.
-- He was sometimes known as the "Landlord of New York."
