@@ -55,4 +55,7 @@ the rear window
 
 ## May 9th, 2022
 46. dispute (noun)
+- In 1871 the dispute which had been carried on since 1831 between the duke and the diet about the rights of each to the state domains was settled by a compromise, each party receiving a share of the revenues.
+- There is a dispute as to his real desings.
+- They had not yet had a loud conversation among the men and a dispute about something important and clever.
 47. complimentary (adjective)
