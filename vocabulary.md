@@ -129,6 +129,7 @@ the rear window
 - Focus the camera on the subject.
 - That was the end of the conversation and neither of them brought the subject up again that night.
 - It's a subject I'd rather not discuss.
+- She forced the subject from her mind: Cô ấy buộc phải xóa bỏ chủ đề này ra khỏi tâm trí của mình.
 63. to seek
 - You seek to betray me as your predecessor did.
 - Perpetrators will seek you out.
