@@ -75,3 +75,5 @@ the rear window
 - Don't underestimate the power of an attractive accessory.
 - If your suit is a solid color, add an accessory or two to liven up your look.
 - Boots are a chic way to dress any outfit up or down and absolute appropriate as an accessory for rain gear.
+51. to recognize
+- The company started to recognize the increasing importance of using resources responsibly.
