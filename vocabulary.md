@@ -83,7 +83,7 @@ the rear window
 - During the repayment period, individuals may be restricted from opening new accounts and their finances will be periodically monitored as the counselor works with them to restructure their spending habits.
 - It is extremely positive about the Indian government 's endeavor to restructure debt, which will bring down borrowing costs.
 - Therefore a need may arise to restructure the curriculum and adapt teaching methods to match the continuous and reflective nature of portfolio assessments.
-53. miscommunication
+53. miscommunication (noun)
 - They have to say exactly what they mean or risk miscommunication.
 - Cultural miscommunication can occur when someone does not understand why the other person just made a face.
 - So when one partner is ambitious, say at work and the other partner is longing to be with him, miscommunication is inevitable.
@@ -123,3 +123,11 @@ the rear window
 - Focus the camera on the subject.
 - That was the end of the conversation and neither of them brought the subject up again that night.
 - It's a subject I'd rather not discuss.
+63. to seek
+- You seek to betray me as your predecessor did.
+- Perpetrators will seek you out.
+- It was a labor of loving service, untouched by the spirit of material gain, conferring upon the work of the older masters a dignity and poetic feeling which we vainly seek in much of the later work.
+64. portfolio (noun)
+- Late in the year 1813 he took up the portfolio of military affairs.
+- On the 5th of November, accordingly, Laffitte became minister-president of a government pledged to progress (mouvement), holding at the same time the portfolio of finance.
+- But Anna Mikhaylovna went forward a step or two to keep her hold on the portfolio, and changed her grip.
