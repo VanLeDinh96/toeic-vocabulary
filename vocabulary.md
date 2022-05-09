@@ -91,3 +91,7 @@ the rear window
 - Please contact us if you come across a broken link.
 - You may come across a completely new style that you really like.
 - How many old Studio photographs have you come across and when looked at, have stirred the imagination?
+55. incentive (noun)
+- Maybe that's the incentive he needs.
+- The reward of title and degree and the consequent rise in the esteem of his fellows and himself was also a strong incentive; but the Mithraic faith itself was the greatest factor.
+- They might offer you the incentive to finish early once a chore is out of the way.
