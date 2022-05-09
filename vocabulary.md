@@ -149,5 +149,10 @@ the rear window
 - If the tenant paid his rent, the landlord could not forbid subletting.
 - Was it merely coincidence that her lease would be up next Friday and the landlord was raising the rent?
 - A landlord is not presumed to have undertaken to put the premises in repair, nor to execute repairs.
-
-Although the holiday season signals a nice week-long vacation for many, bus drivers will work longer hours and straight into the holidays to accommodate the many tourists that are flooding the city this time of year and the shoppers that are busy buying those last-minute gifts. The city announced new bus schedules for the next few weeks which included some routes where the buses would run all day and all night.
+68. to accommodate
+- I only have one sleeping bag, and it will only accommodate one person.
+- Does the hotel accommodate pets?
+- The tea room can accommodate up to 60 at a time.
+69. straight into
+- You’ll be playing straight into their hands if you involve the police: Nếu dính líu tới cảnh sát thì bạn sẽ bị rơi vào tay của bọn chúng.
+- Although the holiday season signals a nice week-long vacation for many, bus drivers will work longer hours and straight into the holidays to accommodate the many tourists that are flooding the city this time of year and the shoppers that are busy buying those last-minute gifts.
