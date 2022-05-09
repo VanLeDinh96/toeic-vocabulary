@@ -157,3 +157,7 @@ the rear window
 69. straight into
 - You’ll be playing straight into their hands if you involve the police: Nếu dính líu tới cảnh sát thì bạn sẽ bị rơi vào tay của bọn chúng.
 - Although the holiday season signals a nice week-long vacation for many, bus drivers will work longer hours and straight into the holidays to accommodate the many tourists that are flooding the city this time of year and the shoppers that are busy buying those last-minute gifts: Mặc dù kỳ nghỉ lễ báo hiệu cho kỳ nghỉ kéo dài một tuần viên mãn đối với nhiều người, nhưng mà các tài xế xe buýt sẽ làm việc nhiều giờ hơn và nhảy ngay vào kỳ nghỉ lễ để đáp ứng nhu cầu của nhiều khách du lịch đổ về thành phố vào thời điểm này trong năm cũng như những người mua sắm bận rộn với những món quà vào phút cuối.
+70. mortgage (noun)
+- They were originally of the nature of mortgage bonds on the national lands.
+- A married man may not sell or mortgage a homestead without his wife's consent.
+- Most mortgage deeds prevent you from letting without your lender's consent.
