@@ -99,10 +99,10 @@ the rear window
 - A massive underwater land slump or partial subsidence suddenly left the highly pressurized magma chamber wide open.
 - It had been remarked at various times, amongst others by Fresnel, that bodies delicately suspended within a partial vacuum are subject to apparent repulsion by radiation.
 - On this account it is very difficult to know when all the gas is driven out of a sample of sea-water, and a much larger proportion is present than the partial pressure of the gas in the atmosphere and its coefficient of absorption would indicate.
-57. proceed (noun)
+57. proceeds (noun)
 - Outside of the suburb there are saltpans, most of the proceeds of which are exported to Galicia.
 - In America, the proceeds went to The Red Cross.
-- If this is approved the meeting proceeds; if not, the meeting is dissolved.
+- She sold her car and bought a piano with the proceeds.
 58. perspective (noun)
 59. installment (noun)
 60. stage (noun)
