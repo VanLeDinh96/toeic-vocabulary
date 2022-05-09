@@ -131,3 +131,7 @@ the rear window
 - Late in the year 1813 he took up the portfolio of military affairs.
 - On the 5th of November, accordingly, Laffitte became minister-president of a government pledged to progress (mouvement), holding at the same time the portfolio of finance.
 - But Anna Mikhaylovna went forward a step or two to keep her hold on the portfolio, and changed her grip.
+65. to feature
+- The film features Cary Grant as a professor.
+- Many of the hotels featured in the brochure offer special deals for weekend breaks.
+- It will feature speaker James.
