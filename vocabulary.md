@@ -62,3 +62,4 @@ the rear window
 - The supermarket operates a complimentary shuttle service.
 - She made some highly complimentary remarks about their school.
 - There was a complimentary bottle of champagne in the hotel room.
+- At the guest's request, an extra set of towels and complimentary soaps were brought to the room.
