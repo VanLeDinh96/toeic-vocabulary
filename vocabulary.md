@@ -120,6 +120,6 @@ the rear window
 - He may turn pale when the trial comes.
 - He was sent for trial and condemned to hard labor, I believe.
 62. subject (noun)
-- She forced the subject from her mind.
+- Focus the camera on the subject.
 - That was the end of the conversation and neither of them brought the subject up again that night.
 - It's a subject I'd rather not discuss.
