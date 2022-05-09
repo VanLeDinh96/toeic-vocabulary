@@ -112,3 +112,6 @@ the rear window
 - This allows you to control your spending and budget the installment payments so you have manageable shopping expenses.
 - Once you finish paying off the merchandise, you can file your installment agreement with all of your business documents.
 60. stage (noun)
+- He was in the stage play Boo!
+- She has now reached the question stage of her development.
+- The only business experience she had was the goat dairy, the non-functional farm and a horse ranch that had been in the fetal stage for years.
