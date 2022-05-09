@@ -87,3 +87,7 @@ the rear window
 - They have to say exactly what they mean or risk miscommunication.
 - Cultural miscommunication can occur when someone does not understand why the other person just made a face.
 - So when one partner is ambitious, say at work and the other partner is longing to be with him, miscommunication is inevitable.
+54. to come across
+- Please contact us if you come across a broken link.
+- You may come across a completely new style that you really like.
+- How many old Studio photographs have you come across and when looked at, have stirred the imagination?
