@@ -79,3 +79,5 @@ the rear window
 - The company started to recognize the increasing importance of using resources responsibly.
 - I recognize the molding and cornices.
 - The security system didn't recognize her thumbprint.
+52. to restruct
+53. miscommunication
