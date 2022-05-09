@@ -77,3 +77,5 @@ the rear window
 - Boots are a chic way to dress any outfit up or down and absolute appropriate as an accessory for rain gear.
 51. to recognize
 - The company started to recognize the increasing importance of using resources responsibly.
+- I recognize the molding and cornices.
+- The security system didn't recognize her thumbprint.
