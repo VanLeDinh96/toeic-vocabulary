@@ -64,5 +64,11 @@ the rear window
 - There was a complimentary bottle of champagne in the hotel room.
 - At the guest's request, an extra set of towels and complimentary soaps were brought to the room.
 48. upscale (adjective)
+- Reservations are necessary for this upscale restaurant.
+- There was an upscale coffee shop a couple of blocks away and Fred suggested they stop for coffee.
+- It was an hour later when he pulled into an upscale tap house and while waiting for ribs and coffee, called Anderson.
 49. boutique (noun)
+- You'll find it all at this stylish online boutique.
+- If you prefer a boutique or private label wine, visit the restaurant's private cellar.
+- the upscale boutique
 50. accessory (noun)
