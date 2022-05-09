@@ -63,5 +63,6 @@ the rear window
 - She made some highly complimentary remarks about their school.
 - There was a complimentary bottle of champagne in the hotel room.
 - At the guest's request, an extra set of towels and complimentary soaps were brought to the room.
-48. upscale
-49. accessory
+48. upscale (adjective)
+49. boutique (noun)
+50. accessory (noun)
