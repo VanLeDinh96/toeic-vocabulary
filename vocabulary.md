@@ -104,5 +104,8 @@ the rear window
 - In America, the proceeds went to The Red Cross.
 - She sold her car and bought a piano with the proceeds.
 58. perspective (noun)
+- She had an interesting perspective, and she made him think about things differently.
+- When he spoke, his perspective surprised her.
+- We'll also have time to see the ruins from a historical perspective.
 59. installment (noun)
 60. stage (noun)
