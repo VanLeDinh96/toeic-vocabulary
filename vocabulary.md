@@ -5,7 +5,7 @@
 4. extreme (adjective)
 - The situation called for extreme measures.
 - Charles bared his teeth in a look of extreme displeasure.
-- Even though she carried it to extreme, he admired her integrity.
+- Even though she [carried it to extreme](https://www.journeyinlife.net/2019/12/take-to-extremes-nghia-la-gi.html), he admired her integrity.
 5. strategy (noun)
 6. to outsell
 7. competitor (noun)
