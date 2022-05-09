@@ -108,4 +108,7 @@ the rear window
 - When he spoke, his perspective surprised her.
 - We'll also have time to see the ruins from a historical perspective.
 59. installment (noun)
+- The funded debt was then gradually reduced until the last installment was paid in 1903.
+- This allows you to control your spending and budget the installment payments so you have manageable shopping expenses.
+- Once you finish paying off the merchandise, you can file your installment agreement with all of your business documents.
 60. stage (noun)
