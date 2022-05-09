@@ -95,3 +95,7 @@ the rear window
 - Maybe that's the incentive he needs.
 - The reward of title and degree and the consequent rise in the esteem of his fellows and himself was also a strong incentive; but the Mithraic faith itself was the greatest factor.
 - They might offer you the incentive to finish early once a chore is out of the way.
+56. partial (adjective)
+- A massive underwater land slump or partial subsidence suddenly left the highly pressurized magma chamber wide open.
+- It had been remarked at various times, amongst others by Fresnel, that bodies delicately suspended within a partial vacuum are subject to apparent repulsion by radiation.
+- On this account it is very difficult to know when all the gas is driven out of a sample of sea-water, and a much larger proportion is present than the partial pressure of the gas in the atmosphere and its coefficient of absorption would indicate.
