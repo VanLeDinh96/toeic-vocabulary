@@ -52,3 +52,7 @@ the rear window
 45. given that S + V
 - The governmental department used to provide financial aid, but now it offers legal services only.
 - The company started to recognize the increasing importance of using resources responsibly.
+
+## May 9th, 2022
+46. dispute (noun)
+47. complimentary (adjective)
