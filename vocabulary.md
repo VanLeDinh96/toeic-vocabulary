@@ -184,3 +184,6 @@ the rear window
 - Education should be a universal right and not a **privilege**.
 - You can enjoy all the benefits and **privileges** of club membership.
 - Try not to abuse the **privilege** of being allowed more freedom.
+77. applicant (noun)
+- There were over 500 **applicants** for the job.
+- Successful **applicants** will receive notification within the week.
