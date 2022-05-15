@@ -165,10 +165,14 @@ the rear window
 ## May 15th, 2022
 71. millennium (noun)
 - For **millennia**, it was accepted that the earth was at the centre of the universe.
-72. subtle 
+72. subtle (adjective)
 - There are **subtle differences** between the two versions.
 - The fragrance is a **subtle** blend of jasmine and sandalwood.
 - She's been dropping **subtle** hints about what she'd like as a present.
-73. irritable
+73. irritable (adjective)
 - To be tired and **irritable**.
 - She waved him away with an **irritable** gesture.
+74. migraine (noun)
+- Severe **migraine**.
+- I'm getting a **migraine**.
+- I forgot to take my **migraine** medication.
