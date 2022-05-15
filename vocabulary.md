@@ -188,6 +188,6 @@ the rear window
 - There were over 500 **applicants** for the job.
 - Successful **applicants** will receive notification within the week.
 78. proficiency (noun)
-- To develop **roficiency**.
+- To develop **proficiency**.
 - A certificate of language **proficiency**.
 - A high level of oral **proficiency in** English.
