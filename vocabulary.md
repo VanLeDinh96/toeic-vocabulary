@@ -169,3 +169,6 @@ the rear window
 - There are **subtle differences** between the two versions.
 - The fragrance is a **subtle** blend of jasmine and sandalwood.
 - She's been dropping **subtle** hints about what she'd like as a present.
+73. irritable
+- To be tired and **irritable**.
+- She waved him away with an **irritable** gesture.
