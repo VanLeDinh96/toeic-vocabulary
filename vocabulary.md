@@ -180,3 +180,7 @@ the rear window
 - to reach (the) **menopause**.
 - Women experience many emotional and physical changes during the **menopause**.
 - A disease that can afflict women past the **menopause**.
+76. privilege (noun)
+- Education should be a universal right and not a **privilege**.
+- You can enjoy all the benefits and **privileges** of club membership.
+- Try not to abuse the **privilege** of being allowed more freedom.
