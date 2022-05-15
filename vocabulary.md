@@ -161,3 +161,11 @@ the rear window
 - They were originally of the nature of mortgage bonds on the national lands.
 - A married man may not sell or mortgage a homestead without his wife's consent.
 - Most mortgage deeds prevent you from letting without your lender's consent.
+
+## May 15th, 2022
+71. millennium (noun)
+- For **millennia**, it was accepted that the earth was at the centre of the universe.
+72. subtle 
+- There are **subtle differences** between the two versions.
+- The fragrance is a **subtle** blend of jasmine and sandalwood.
+- She's been dropping **subtle** hints about what she'd like as a present.
