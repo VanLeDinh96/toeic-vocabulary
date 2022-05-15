@@ -176,3 +176,7 @@ the rear window
 - Severe **migraine**.
 - I'm getting a **migraine**.
 - I forgot to take my **migraine** medication.
+75. menopause (noun)
+- to reach (the) **menopause**.
+- Women experience many emotional and physical changes during the **menopause**.
+- A disease that can afflict women past the **menopause**.
