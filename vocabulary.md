@@ -191,3 +191,31 @@ the rear window
 - To develop **proficiency**.
 - A certificate of language **proficiency**.
 - A high level of oral **proficiency in** English.
+
+## May 16th, 2022
+79. to dock
+- The ferry is expected to **dock** at 6.
+80. to board
+- He tried to **board** a plane at Nice airport.
+81. windmill (noun)
+- She's standing behind the **windmill**.
+82. figures (noun)
+- She's giving a presentation about September's sales **figures**.
+- Official **figures** indicate that crime is falling.
+83. chairlift (noun)
+- The edge of wild west reunion took a **chairlift**.
+- The last steep descent was avoided by using a **chairlift**.
+84. drawer (noun)
+- In the top **drawer**.
+85. postage (noun)
+- It seems unfair that you have to pay for the **postage**.
+86. luggage (noun)
+- There's room for one more piece of **luggage**.
+- You stay there with the **luggage** while I find a cab.
+87. election (noun)
+- An **election** candidate.
+- The **election** is weeks off.
+- I'm running for **election** against this guy.
+88. enormous (adjective)
+- His income is said by Lucian to have reached an **enormous** figure.
+- Distributed computing makes **enormous** computational problems affordable to solve.
