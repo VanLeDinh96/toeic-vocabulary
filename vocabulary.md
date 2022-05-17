@@ -253,3 +253,6 @@ the rear window
 - They will be punished for their evil **deeds**.
 101. excerpt (noun)
 - **Excerpt** from a meeting
+102. diaper (noun)
+- It was time for a **diaper** change.
+- Isn't he old to be still in **diapers**?
