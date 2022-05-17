@@ -243,3 +243,11 @@ the rear window
 - They want to take photos of our new range of **denim** clothing.
 97. to conform
 - I'd like to announce a few changes in our health and safety policy that are designed to **conform** to the new goverment regulations.
+98. to put in
+- We are going to have to **put in** some overtime to get ahead of schedule.
+99. to rectify
+- To **rectify** a fault.
+- We must take steps to **rectify** the situation.
+100. dead (noun)
+- She tried to do a good **deed** every day.
+- They will be punished for their evil **deeds**.
