@@ -219,3 +219,14 @@ the rear window
 88. enormous (adjective)
 - His income is said by Lucian to have reached an **enormous** figure.
 - Distributed computing makes **enormous** computational problems affordable to solve.
+
+## May 17th, 2022
+89. eye-catching (adjective)
+- An **eye-catching** advertisement.
+- Beautiful clothes in **eye-catching** colours.
+90. up and coming (adjective)
+- **up-and-coming** young actors.
+91. flowerpot (noun)
+- Please do not place glass, vase, **flowerpot** and other water or liquid container onto the instrument.
+92. utensil (noun)
+- Lana hesitated then sat, watching Kelli use the bread in place of **utensils** to eat her dinner.
