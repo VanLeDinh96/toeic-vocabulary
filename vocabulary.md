@@ -230,3 +230,6 @@ the rear window
 - Please do not place glass, vase, **flowerpot** and other water or liquid container onto the instrument.
 92. utensil (noun)
 - Lana hesitated then sat, watching Kelli use the bread in place of **utensils** to eat her dinner.
+93. treadmill (noun)
+- They are running on the **treadmills**.
+- I try to do half an hour's exercise on the **treadmill** every morning.
