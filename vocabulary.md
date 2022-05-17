@@ -251,3 +251,5 @@ the rear window
 100. dead (noun)
 - She tried to do a good **deed** every day.
 - They will be punished for their evil **deeds**.
+101. excerpt (noun)
+- **Excerpt** from a meeting
