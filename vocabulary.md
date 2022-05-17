@@ -239,3 +239,7 @@ the rear window
 - This diet guarantees to help you shed **surplus** fat.
 - **Surplus** grain is being sold for export.
 - These items are **surplus** to requirements.
+96. denim (noun)
+- They want to take photos of our new range of **denim** clothing.
+97. to conform
+- I'd like to announce a few changes in our health and safety policy that are designed to **conform** to the new goverment regulations.
