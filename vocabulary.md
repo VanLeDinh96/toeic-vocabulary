@@ -203,7 +203,6 @@ the rear window
 - She's giving a presentation about September's sales **figures**.
 - Official **figures** indicate that crime is falling.
 83. chairlift (noun)
-- The edge of wild west reunion took a **chairlift**.
 - The last steep descent was avoided by using a **chairlift**.
 84. drawer (noun)
 - In the top **drawer**.
@@ -236,3 +235,7 @@ the rear window
 94. agenda (noun)
 - The last item on today's meeting **agenda** is preparations for next week's business conference in Germany.
 - The next item on the **agenda** is the publicity budget.
+95. surplus (adjective)
+- This diet guarantees to help you shed **surplus** fat.
+- **Surplus** grain is being sold for export.
+- These items are **surplus** to requirements.
