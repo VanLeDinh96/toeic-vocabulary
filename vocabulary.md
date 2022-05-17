@@ -233,3 +233,6 @@ the rear window
 93. treadmill (noun)
 - They are running on the **treadmills**.
 - I try to do half an hour's exercise on the **treadmill** every morning.
+94. agenda (noun)
+- The last item on today's meeting **agenda** is preparations for next week's business conference in Germany.
+- The next item on the **agenda** is the publicity budget.
