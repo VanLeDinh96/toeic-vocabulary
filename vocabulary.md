@@ -256,3 +256,22 @@ the rear window
 102. diaper (noun)
 - It was time for a **diaper** change.
 - Isn't he old to be still in **diapers**?
+
+## May 18th, 2022
+103. to stash
+- The house has a certain amount of money **stashed**.
+104. appeal (noun)
+- He made an emotional **appeal** to voters.
+- The prospect of living in a city holds little **appeal** for me.
+105. competition (noun)
+- A talent **competition**.
+- A national **competition**.
+106. proposal (noun)
+- Creative **proposals**.
+- To submit/present/put forward a **proposal**.
+107. in order to do something
+- To see if there's something I can do **in order to** prevent the inevitable, of course.
+108. regarding + noun = about + noun
+- He turned, **regarding** her with apprehension.
+109. while + S + V, S + V
+- I don't want you to drive **while** you're so tired.
