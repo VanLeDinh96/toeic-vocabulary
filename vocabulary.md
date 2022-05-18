@@ -272,6 +272,6 @@ the rear window
 107. in order to do something
 - To see if there's something I can do **in order to** prevent the inevitable, of course.
 108. regarding + noun = about + noun
-- He opened it to confirm his presumption **regarding** Sarah's hair..
+- He opened it to confirm his presumption **regarding** Sarah's hair.
 109. while + S + V, S + V
 - I don't want you to drive **while** you're so tired.
