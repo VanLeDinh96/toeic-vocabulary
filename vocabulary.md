@@ -248,7 +248,7 @@ the rear window
 99. to rectify
 - To **rectify** a fault.
 - We must take steps to **rectify** the situation.
-100. dead (noun)
+100. deed (noun)
 - She tried to do a good **deed** every day.
 - They will be punished for their evil **deeds**.
 101. excerpt (noun)
