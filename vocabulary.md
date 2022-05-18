@@ -280,3 +280,8 @@ the rear window
 111. exceptional (adjective)
 - At the age of five he showed **exceptional** talent as a musician.
 - The quality of the recording is **quite exceptional**.
+112. propriety (noun)
+- The **propriety** of this extended use is open to question and is denied by some logicians.
+- They broke the chain of authority, without, however, recognizing the **propriety** of toleration.
+113. townspeople (noun)
+- **Townspeople** have flocked to the new shopping mall.
