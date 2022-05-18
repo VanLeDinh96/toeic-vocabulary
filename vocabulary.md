@@ -275,3 +275,8 @@ the rear window
 - He opened it to confirm his presumption **regarding** Sarah's hair.
 109. while + S + V, S + V
 - I don't want you to drive **while** you're so tired.
+110. banquet (noun)
+- A state **banquet** was held in honour of the visiting president.
+111. exceptional (adjective)
+- At the age of five he showed **exceptional** talent as a musician.
+- The quality of the recording is **quite exceptional**.
