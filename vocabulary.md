@@ -298,3 +298,5 @@ the rear window
 - The lease comes up for **renewal** at the end of the month.
 - The **renewal** date.
 - A **renewal** of interest in traditional teaching methods.
+118. to corrode
+- This substance can be painted only on metallic surfaces, as it tends to **corrode** other types of materials.
