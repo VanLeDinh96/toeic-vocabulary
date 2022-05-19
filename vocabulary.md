@@ -285,3 +285,16 @@ the rear window
 - They broke the chain of authority, without, however, recognizing the **propriety** of toleration.
 113. townspeople (noun)
 - **Townspeople** have flocked to the new shopping mall.
+
+## May 20th, 2022
+114. hall (noun)
+- A bell rings in the main **hall** to notify factory workers of the beginning of a shift.
+115. consultation (noun)
+- For a limited period only, if you book a **consultation**, Brookings Home Insurance will offer a significant discount on property insurance.
+116. restraint (noun)
+- The government has imposed export **restraints** on some products.
+- Social **restraints** on drinking alcohol.
+117. renewal (noun)
+- The lease comes up for **renewal** at the end of the month.
+- The **renewal** date.
+- A **renewal** of interest in traditional teaching methods.
