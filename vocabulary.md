@@ -315,85 +315,88 @@ the rear window
 121. amendment (noun)
 - To **introduce/propose/table an amendment**
 - Parliament passed the bill without further **amendment**.
-- **Amendment** to something She made several minor amendments to her essay.
-122. amendable (adjective)
-123. correction (noun)
-124. alteration (noun)
-125. emandation (noun)
-126. to breach
-127. breach (noun)
-128. infraction (noun)
-129. violation (noun)
-130. to violate
-131. to infringe
-132. nonviolation (noun)
-133. observance (noun)
-134. to observe
-128. clause (noun)
+- She made several minor **amendments** to her essay.
+122. correction (noun)
+- I've made a few small **corrections to** your report.
+- The paper had to publish a **orrection to** the story.
+123. alteration (noun)
+- They are making some **alterations to** the house.
+- Major/minor **alterations**.
+124. emandation (noun)
+125. to breach
+126. breach (noun)
+127. infraction (noun)
+128. violation (noun)
+129. to violate
+130. to infringe
+131. nonviolation (noun)
+132. observance (noun)
+133. to observe
+134. clause (noun)
 - Commerce **clause**
 - Penalty **clause**
 - Saving **clause**
 - I want a **clause** put in the contract that says I will also get 5 percent of the profits.
-129. contractual (noun)
+135. contractual (noun)
 - **Contractual** obligation.
 - We have a **contractual** agreement.
-130. to obligate
-131. to constrain
-131. obligation (noun)
-132. commitment (noun)
-132. to oblidge
+136. to obligate
+137. to constrain
+138. obligation (noun)
+139. commitment (noun)
+140. to oblidge
 - I'm **oblidged** to work overtime.
-133. to compel
-134. to force
-133. party (noun)
+141. to compel
+142. to force
+143. party (noun)
 - The third **party**.
 - The guilty **party**.
-134. compromise (noun)
-135. to compromise
-136. to consider
-137. to ponder
-138. delicacy (noun)
-139. to offset
-140. forceful (adjective)
-141. chiefly (adverb)
-142. assurance (noun)
+144. compromise (noun)
+145. to compromise
+146. to consider
+147. to ponder
+148. delicacy (noun)
+149. to offset
+150. forceful (adjective)
+151. chiefly (adverb)
+152. assurance (noun)
 - Quality **assurance**.
-143. auction (noun)
-144. to elude
-145. slump (noun)
-146. legitimate (adjective)
-147. distinct (adjective)
-148. affiliate (noun)
-149. to assemble
-150. to get together
-151. to disperse
-152. gathering (noun)
-153. site (noun)
-154. spot (noun)
-155. constructive (adjective)
-156. to designate
-157. to downsize
-158. fad (noun)
-159. craze (noun)
-160. faddish (adjective)
-161. franchise (noun)
-162. franchisee (noun)
-163. headquarters (noun)
-164. to headquarter
+153. auction (noun)
+154. to elude
+155. slump (noun)
+156. legitimate (adjective)
+157. distinct (adjective)
+158. affiliate (noun)
+159. to assemble
+160. to get together
+161. to disperse
+162. gathering (noun)
+163. site (noun)
+164. spot (noun)
+165. constructive (adjective)
+166. to designate
+167. to downsize
+168. fad (noun)
+169. craze (noun)
+170. faddish (adjective)
+171. franchise (noun)
+172. franchisee (noun)
+173. headquarters (noun)
+174. to headquarter
 - To be **headquartered** in London.
-165. venture (noun)
+175. venture (noun)
 - Joint **venture**.
 - **Venture** capital.
-166. hazard (noun)
-167. compact (noun)
-168. treaty (noun)
-169. to unfetter
-170. abiding (adjective)
-171. protectionism (noun)
-172. to discharge
-173. to comply
-174. to meet
-175. to comply
-176. to breach
-177. signature (noun)
-178. signatory (noun)
+176. hazard (noun)
+177. compact (noun)
+178. treaty (noun)
+179. to unfetter
+180. abiding (adjective)
+181. protectionism (noun)
+182. to discharge
+183. to comply
+184. to meet
+185. to comply
+186. to breach
+187. signature (noun)
+188. signatory (noun)
