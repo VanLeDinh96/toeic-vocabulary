@@ -300,3 +300,100 @@ the rear window
 - A **renewal** of interest in traditional teaching methods.
 118. to corrode
 - This substance can be painted only on metallic surfaces, as it tends to **corrode** other types of materials.
+119. to float
+- The boats were **floating** gently down the river.
+- She relaxed, **floating** gently **in** the water.
+- A plastic bag was **floating on** the water.
+120. to drift
+- Clouds **drifted** across the sky.
+- The empty boat **drifted** out to sea.
+- Smoke **drifted** across the room.
+120. to amend
+- He asked to see the **amended** version.
+- The law has been **amended** to read as follows:…
+- Parliament will vote to **amend** the constitution.
+121. amendment (noun)
+- To **introduce/propose/table an amendment**
+- Parliament passed the bill without further **amendment**.
+- **Amendment** to something She made several minor amendments to her essay.
+122. amendable (adjective)
+123. correction (noun)
+124. alteration (noun)
+125. emandation (noun)
+126. to breach
+127. breach (noun)
+128. infraction (noun)
+129. violation (noun)
+130. to violate
+131. to infringe
+132. nonviolation (noun)
+133. observance (noun)
+134. to observe
+128. clause (noun)
+- Commerce **clause**
+- Penalty **clause**
+- Saving **clause**
+- I want a **clause** put in the contract that says I will also get 5 percent of the profits.
+129. contractual (noun)
+- **Contractual** obligation.
+- We have a **contractual** agreement.
+130. to obligate
+131. to constrain
+131. obligation (noun)
+132. commitment (noun)
+132. to oblidge
+- I'm **oblidged** to work overtime.
+133. to compel
+134. to force
+133. party (noun)
+- The third **party**.
+- The guilty **party**.
+134. compromise (noun)
+135. to compromise
+136. to consider
+137. to ponder
+138. delicacy (noun)
+139. to offset
+140. forceful (adjective)
+141. chiefly (adverb)
+142. assurance (noun)
+- Quality **assurance**.
+143. auction (noun)
+144. to elude
+145. slump (noun)
+146. legitimate (adjective)
+147. distinct (adjective)
+148. affiliate (noun)
+149. to assemble
+150. to get together
+151. to disperse
+152. gathering (noun)
+153. site (noun)
+154. spot (noun)
+155. constructive (adjective)
+156. to designate
+157. to downsize
+158. fad (noun)
+159. craze (noun)
+160. faddish (adjective)
+161. franchise (noun)
+162. franchisee (noun)
+163. headquarters (noun)
+164. to headquarter
+- To be **headquartered** in London.
+165. venture (noun)
+- Joint **venture**.
+- **Venture** capital.
+166. hazard (noun)
+167. compact (noun)
+168. treaty (noun)
+169. to unfetter
+170. abiding (adjective)
+171. protectionism (noun)
+172. to discharge
+173. to comply
+174. to meet
+175. to comply
+176. to breach
+177. signature (noun)
+178. signatory (noun)
