@@ -322,14 +322,21 @@ the rear window
 123. alteration (noun)
 - They are making some **alterations to** the house.
 - Major/minor **alterations**.
-124. emandation (noun)
-125. to breach
-126. breach (noun)
-127. infraction (noun)
-128. violation (noun)
-129. to violate
-130. to infringe
-131. nonviolation (noun)
+124. to breach
+- The government is accused of **breaching** the terms of the treaty.
+- A doctor was sacked for allegedly **breaching** patient confidentiality.
+- The dam had been **breached**.
+125. breach (noun)
+- A **breach of contract/copyright/warranty**.
+- They are **in breach of** Article 119.
+- A **breach of confidence/trust**.
+126. infraction (noun)
+- Minor **infractions** of EU regulations
+127. violation (noun)
+- They were in open **violation** of the treaty.
+128. to violate
+129. to infringe
+130. nonviolation (noun)
 132. observance (noun)
 133. to observe
 134. clause (noun)
@@ -400,3 +407,6 @@ the rear window
 186. to breach
 187. signature (noun)
 188. signatory (noun)
+189. quality (noun)
+190. quantity (noun)
+191. aisle (noun)
