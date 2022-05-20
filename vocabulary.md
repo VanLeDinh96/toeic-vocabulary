@@ -1,6 +1,11 @@
 ## May 8th, 2022
 1. reliable (adjective)
+- We are looking for someone who is **reliable** and hard-working.
+- He was a very **reliable** and honest man who would never betray anyone.
 2. suburban (noun)
+- **Suburban** areas
+- A **suburban** street
+- Life in **suburban** London
 3. downtown (noun)
 4. extreme (adjective)
 - The situation called for extreme measures.
@@ -308,105 +313,124 @@ the rear window
 - Clouds **drifted** across the sky.
 - The empty boat **drifted** out to sea.
 - Smoke **drifted** across the room.
-120. to amend
+121. to amend
 - He asked to see the **amended** version.
 - The law has been **amended** to read as follows:…
 - Parliament will vote to **amend** the constitution.
-121. amendment (noun)
+122. amendment (noun)
 - To **introduce/propose/table an amendment**
 - Parliament passed the bill without further **amendment**.
 - She made several minor **amendments** to her essay.
-122. correction (noun)
+123. correction (noun)
 - I've made a few small **corrections to** your report.
 - The paper had to publish a **orrection to** the story.
-123. alteration (noun)
+124. alteration (noun)
 - They are making some **alterations to** the house.
 - Major/minor **alterations**.
-124. to breach
+125. to breach
 - The government is accused of **breaching** the terms of the treaty.
 - A doctor was sacked for allegedly **breaching** patient confidentiality.
 - The dam had been **breached**.
-125. breach (noun)
+126. breach (noun)
 - A **breach of contract/copyright/warranty**.
 - They are **in breach of** Article 119.
 - A **breach of confidence/trust**.
-126. infraction (noun)
+127. infraction (noun)
 - Minor **infractions** of EU regulations
-127. violation (noun)
+128. violation (noun)
 - They were in open **violation** of the treaty.
-128. to violate
-129. to infringe
-130. nonviolation (noun)
-132. observance (noun)
-133. to observe
-134. clause (noun)
+129. to violate
+- To **violate** international law.
+130. to infringe
+- The material can be copied without **infringing** copyright.
+- Two of the projects are deemed to **infringe** EU legislation.
+131. to flout
+- Motorists regularly **flout** the law.
+- To **flout authority/convention**.
+- She likes **flouting** convention and doing her own thing.
+132. to defy
+- I wouldn't have dared to **defy** my teachers.
+- Hundreds of people today **defied** the ban on political gatherings.
+133. to break
+- I had **broken the law** and deserved to be punished.
+- People should not be allowed to **break the rules**.
+- To **break a promise**.
+134. nonviolation (noun)
+135. observance (noun)
+136. to observe
+137. clause (noun)
 - Commerce **clause**
 - Penalty **clause**
 - Saving **clause**
 - I want a **clause** put in the contract that says I will also get 5 percent of the profits.
-135. contractual (noun)
+138. contractual (noun)
 - **Contractual** obligation.
 - We have a **contractual** agreement.
-136. to obligate
-137. to constrain
-138. obligation (noun)
-139. commitment (noun)
-140. to oblidge
+139. to obligate
+140. to constrain
+141. obligation (noun)
+142. commitment (noun)
+143. to oblidge
 - I'm **oblidged** to work overtime.
-141. to compel
-142. to force
-143. party (noun)
+144. to compel
+145. to force
+146. party (noun)
 - The third **party**.
 - The guilty **party**.
-144. compromise (noun)
-145. to compromise
-146. to consider
-147. to ponder
-148. delicacy (noun)
-149. to offset
-150. forceful (adjective)
-151. chiefly (adverb)
-152. assurance (noun)
+147. compromise (noun)
+148. to compromise
+149. to consider
+150. to ponder
+151. delicacy (noun)
+152. to offset
+153. forceful (adjective)
+154. chiefly (adverb)
+155. assurance (noun)
 - Quality **assurance**.
-153. auction (noun)
-154. to elude
-155. slump (noun)
-156. legitimate (adjective)
-157. distinct (adjective)
-158. affiliate (noun)
-159. to assemble
-160. to get together
-161. to disperse
-162. gathering (noun)
-163. site (noun)
-164. spot (noun)
-165. constructive (adjective)
-166. to designate
-167. to downsize
-168. fad (noun)
-169. craze (noun)
-170. faddish (adjective)
-171. franchise (noun)
-172. franchisee (noun)
-173. headquarters (noun)
-174. to headquarter
+156. auction (noun)
+157. to elude
+158. slump (noun)
+159. legitimate (adjective)
+160. distinct (adjective)
+161. affiliate (noun)
+162. to assemble
+163. to get together
+164. to disperse
+165. gathering (noun)
+166. site (noun)
+167. spot (noun)
+168. constructive (adjective)
+169. to designate
+170. to downsize
+171. fad (noun)
+172. craze (noun)
+173. faddish (adjective)
+174. franchise (noun)
+175. franchisee (noun)
+176. headquarters (noun)
+177. to headquarter
 - To be **headquartered** in London.
-175. venture (noun)
+178. venture (noun)
 - Joint **venture**.
 - **Venture** capital.
-176. hazard (noun)
-177. compact (noun)
-178. treaty (noun)
-179. to unfetter
-180. abiding (adjective)
-181. protectionism (noun)
-182. to discharge
-183. to comply
-184. to meet
-185. to comply
-186. to breach
-187. signature (noun)
-188. signatory (noun)
-189. quality (noun)
-190. quantity (noun)
-191. aisle (noun)
+179. hazard (noun)
+180. compact (noun)
+181. treaty (noun)
+182. to unfetter
+183. abiding (adjective)
+184. protectionism (noun)
+185. to discharge
+186. to comply
+187. to meet
+188. to comply
+189. to breach
+190. signature (noun)
+191. signatory (noun)
+192. quality (noun)
+193. quantity (noun)
+194. aisle (noun)
+195. to visualize
+196. lenient
+- A **lenient** sentence.
+- A **lenient** fine.
+- The judge was far too **lenient** with him.
