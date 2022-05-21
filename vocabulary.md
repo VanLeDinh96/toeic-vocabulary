@@ -1,8 +1,8 @@
 ## May 8th, 2022
-1. reliable (adjective)
+1. reliable (adjective) `/rɪˈlaɪəbl/`
 - We are looking for someone who is **reliable** and hard-working.
 - He was a very **reliable** and honest man who would never betray anyone.
-2. suburban (noun)
+2. suburban (noun) `/səˈbɜːrbən/`
 - **Suburban** areas
 - A **suburban** street
 - Life in **suburban** London
