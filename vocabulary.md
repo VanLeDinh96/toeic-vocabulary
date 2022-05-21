@@ -449,6 +449,9 @@
 192. quality (noun)
 193. quantity (noun)
 194. aisle (noun)
+- An **aisle** seat.
+- Coffee and tea are in the next **aisle**.
+- She looked radiant as she walked down the **aisle** on her father's arm.
 195. to visualize
 196. lenient
 - A **lenient** sentence.
@@ -465,6 +468,6 @@
 198. wrongdoing (noun)
 - The company denies any **wrongdoing**.
 199. crime (noun)
-This month's figures show an increase in **violent crime**.
-There is no proof that he **committed a crime**.
-The massacre was a **ime against** humanity.
+- This month's figures show an increase in **violent crime**.
+- There is no proof that he **committed a crime**.
+- The massacre was a **ime against** humanity.
