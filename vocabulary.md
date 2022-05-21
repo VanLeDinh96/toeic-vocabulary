@@ -453,6 +453,10 @@
 - Coffee and tea are in the next **aisle**.
 - She looked radiant as she walked down the **aisle** on her father's arm.
 195. to visualize
+- Try to **visualize** him as an old man.
+- I can't **visualize** what this room looked like before it was decorated.
+- It can help to **visualize** yourself making your speech clearly and confidently.
+- She couldn't **visualize** climbing the mountain.
 196. lenient
 - A **lenient** sentence.
 - A **lenient** fine.
