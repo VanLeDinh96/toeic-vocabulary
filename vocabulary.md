@@ -423,6 +423,9 @@
 169. to designate
 170. to downsize
 171. fad (noun)
+- The **latest fad**.
+- The **current fad**.
+- Rap music proved to be more than just a **passing fad**.
 172. craze (noun)
 173. faddish (adjective)
 174. franchise (noun)
