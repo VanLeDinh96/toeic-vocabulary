@@ -435,6 +435,8 @@
 - In the reorganization, Southern Television lost their **franchise**.
 - to operate a business **under franchise**.
 175. franchisee (noun)
+- Whether you are thinking of becoming a **franchisee**, or wish to franchise your own business we can help you.
+- In return the **franchisee** agrees to pay the franchisor a royalty on all goods sold or services provided by the **franchisee**.
 176. headquarters (noun)
 177. to headquarter
 - To be **headquartered** in London.
