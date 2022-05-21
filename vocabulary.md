@@ -371,107 +371,108 @@
 - To **break a promise**.
 
 ## May 21st, 2022
-135. observance (noun)
+134. observance (noun)
 - **Observance** of traditional practices.
 - **Observance** of the law.
-136. to observe
+135. to observe
 - The police **observed** a man enter the bank.
 - She **observed** that all the chairs were already occupied.
 - Will the rebels **observe** the ceasefire?
-137. clause (noun)
+136. clause (noun)
 - Commerce **clause**
 - Penalty **clause**
 - Saving **clause**
 - I want a **clause** put in the contract that says I will also get 5 percent of the profits.
-138. contractual (noun)
+137. contractual (noun)
 - **Contractual** obligation.
 - We have a **contractual** agreement.
-139. to obligate
-140. to constrain
-141. obligation (noun)
-142. commitment (noun)
-143. to oblidge
+138. to obligate
+139. to constrain
+140. obligation (noun)
+141. commitment (noun)
+142. to oblidge
 - I'm **oblidged** to work overtime.
-144. to compel
-145. to force
-146. party (noun)
+143. to compel
+144. to force
+145. party (noun)
 - The third **party**.
 - The guilty **party**.
-147. compromise (noun)
-148. to compromise
-149. to consider
-150. to ponder
-151. delicacy (noun)
-152. to offset
-153. forceful (adjective)
-154. chiefly (adverb)
-155. assurance (noun)
+146. compromise (noun)
+147. to compromise
+148. to consider
+149. to ponder
+150. delicacy (noun)
+151. to offset
+152. forceful (adjective)
+153. chiefly (adverb)
+154. assurance (noun)
 - Quality **assurance**.
-156. auction (noun)
-157. to elude
-158. slump (noun)
-159. legitimate (adjective)
-160. distinct (adjective)
-161. affiliate (noun)
-162. to assemble
-163. to get together
-164. to disperse
-165. gathering (noun)
-166. site (noun)
-167. spot (noun)
-168. constructive (adjective)
-169. to designate
-170. to downsize
-171. fad (noun)
+155. auction (noun)
+156. to elude
+157. slump (noun)
+158. legitimate (adjective)
+159. distinct (adjective)
+160. affiliate (noun)
+161. to assemble
+162. to get together
+- I'm trying to **get a team together** for Saturday.
+163. to disperse
+164. gathering (noun)
+165. site (noun)
+166. spot (noun)
+167. constructive (adjective)
+168. to designate
+169. to downsize
+170. fad (noun)
 - The **latest fad**.
 - The **current fad**.
 - Rap music proved to be more than just a **passing fad**.
-172. craze (noun)
-174. franchise (noun)
+171. craze (noun)
+172. franchise (noun)
 - A **franchise agreement**.
 - A **franchise company**.
 - A **catering franchise**.
 - A **rail franchise**.
 - In the reorganization, Southern Television lost their **franchise**.
 - to operate a business **under franchise**.
-175. franchisee (noun)
+173. franchisee (noun)
 - Whether you are thinking of becoming a **franchisee**, or wish to franchise your own business we can help you.
 - In return the **franchisee** agrees to pay the franchisor a royalty on all goods sold or services provided by the **franchisee**.
-176. headquarters (noun)
-177. to headquarter
+174. headquarters (noun)
+175. to headquarter
 - To be **headquartered** in London.
-178. venture (noun)
+176. venture (noun)
 - Joint **venture**.
 - **Venture** capital.
-179. hazard (noun)
-180. compact (noun)
-181. treaty (noun)
-182. to unfetter
-183. abiding (adjective)
-184. protectionism (noun)
-185. to discharge
+177. hazard (noun)
+178. compact (noun)
+179. treaty (noun)
+180. to unfetter
+181. abiding (adjective)
+182. protectionism (noun)
+183. to discharge
+184. to comply
+185. to meet
 186. to comply
-187. to meet
-188. to comply
-189. to breach
-190. signature (noun)
-191. signatory (noun)
-192. quality (noun)
-193. quantity (noun)
-194. aisle (noun)
+187. to breach
+188. signature (noun)
+189. signatory (noun)
+190. quality (noun)
+191. quantity (noun)
+192. aisle (noun)
 - An **aisle** seat.
 - Coffee and tea are in the next **aisle**.
 - She looked radiant as she walked down the **aisle** on her father's arm.
-195. to visualize
+193. to visualize
 - Try to **visualize** him as an old man.
 - I can't **visualize** what this room looked like before it was decorated.
 - It can help to **visualize** yourself making your speech clearly and confidently.
 - She couldn't **visualize** climbing the mountain.
-196. lenient
+194. lenient
 - A **lenient** sentence.
 - A **lenient** fine.
 - The judge was far too **lenient** with him.
-197. decent (adjective)
+195. decent (adjective)
 - I just want to get a **decent** job with **decent** pay.
 - A **decent** pension of living.
 - A **decent** wage of living.
@@ -479,9 +480,14 @@
 - I need a **decent** night's sleep.
 - A **decent** meal to live.
 - A **decent** place to live.
-198. wrongdoing (noun)
+196. wrongdoing (noun)
 - The company denies any **wrongdoing**.
-199. crime (noun)
+197. crime (noun)
 - This month's figures show an increase in **violent crime**.
 - There is no proof that he **committed a crime**.
-- The massacre was a **ime against** humanity.
+- The massacre was a **crime against** humanity.
+198. impeccable (adjective) `/ɪmˈpekəbl/`
+- **Impeccable manners**.
+- **Impeccable taste**
+- Her written English is **impeccable**.
+- He was dressed in a suit and an **impeccable** white shirt.
