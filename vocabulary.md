@@ -12,23 +12,37 @@
 - Charles bared his teeth in a look of extreme displeasure.
 - Even though she [carried it to extreme](https://www.journeyinlife.net/2019/12/take-to-extremes-nghia-la-gi.html), he admired her integrity.
 5. strategy (noun)
+- The government's economic **strategy**.
+- We need to devise an effective long-term **strategy**.
+- To adopt a **strategy**.
+- To implement a **strategy**.
+- To pursue a **strategy**.
 6. to outsell
+- We are now **outselling** all our competitors.
+- This year the newspaper has **outsold** its main rival.
 7. competitor (noun)
-8. He addressed the audience
+8. to address
+- He **addressed** the audience
 9. a brief video
 10. engine (noun)
 11. optimal (adjective)
 12. to obstruct
 13. rear (adjective)
-the rear window
-14. side-view mirrors
+- The **rear window**.
+14. mirror
+- **Side-view mirrors**.
 15. to avoid
 16. ventilation (noun)
 17. cooperative (adjective)
 18. visible (adjective)
 19. essential (adjective)
 20. alternative (adjective)
-21. well-being
+21. well-being (noun)
+- **Emotional well-being**.
+- **Physical well-being**.
+- **Psychological well-being**.
+- To have **a sense of well-being**.
+- We try to ensure the **well-being** of our employees.
 22. proper (adjective)
 23. in addition to + noun
 24. in keeping with + noun
@@ -355,9 +369,15 @@ the rear window
 - I had **broken the law** and deserved to be punished.
 - People should not be allowed to **break the rules**.
 - To **break a promise**.
-134. nonviolation (noun)
+
+## May 21st, 2022
 135. observance (noun)
+- **Observance** of traditional practices.
+- **Observance** of the law.
 136. to observe
+- The police **observed** a man enter the bank.
+- She **observed** that all the chairs were already occupied.
+- Will the rebels **observe** the ceasefire?
 137. clause (noun)
 - Commerce **clause**
 - Penalty **clause**
@@ -434,3 +454,17 @@ the rear window
 - A **lenient** sentence.
 - A **lenient** fine.
 - The judge was far too **lenient** with him.
+197. decent (adjective)
+- I just want to get a **decent** job with **decent** pay.
+- A **decent** pension of living.
+- A **decent** wage of living.
+- A **decent** standard of living.
+- I need a **decent** night's sleep.
+- A **decent** meal to live.
+- A **decent** place to live.
+198. wrongdoing (noun)
+- The company denies any **wrongdoing**.
+199. crime (noun)
+This month's figures show an increase in **violent crime**.
+There is no proof that he **committed a crime**.
+The massacre was a **ime against** humanity.
