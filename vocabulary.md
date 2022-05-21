@@ -427,8 +427,13 @@
 - The **current fad**.
 - Rap music proved to be more than just a **passing fad**.
 172. craze (noun)
-173. faddish (adjective)
 174. franchise (noun)
+- A **franchise agreement**.
+- A **franchise company**.
+- A **catering franchise**.
+- A **rail franchise**.
+- In the reorganization, Southern Television lost their **franchise**.
+- to operate a business **under franchise**.
 175. franchisee (noun)
 176. headquarters (noun)
 177. to headquarter
