@@ -534,7 +534,7 @@
 153 test 6
 206. to assess
 151 test 6
-207. matinee = matinée (noun) `/ˌmætnˈeɪ/`
+207. matinee = [matinée](https://vi.wiktionary.org/wiki/matin%C3%A9e#Ti%E1%BA%BFng_Anh) (noun) `/ˌmætnˈeɪ/`
 - It'll run nightly at 7.30pm with a 2.30pm **matinée** on the Saturday.
 - There's also a special **matinée** showing on the 8th at 2.30pm.
 - These screenings are also open to everyone else at normal weekday **matinée** ticket prices.
