@@ -539,8 +539,8 @@
 - There's also a special matinee showing on the 8th at 2.30pm.
 - These screenings are also open to everyone else at normal weekday matinee ticket prices.
 208. an early-bird (idiom) `/ˈɜːrli/` `/bɜːrd/`
-We've always been **early birds**, up at 5.30 or 6am.
-**An early-bird** discount is sometimes available at the beginning of the season.
+- We've always been **early birds**, up at 5.30 or 6am.
+- **An early-bird** discount is sometimes available at the beginning of the season.
 209. to demand
 210. a sore problem
 211. adoption
