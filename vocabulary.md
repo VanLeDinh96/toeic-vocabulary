@@ -23,8 +23,9 @@
 7. competitor (noun)
 8. to address
 - He **addressed** the audience
-9. a brief video
-10. engine (noun)
+9. brief (adjective)
+- A **bried** video.
+10. [engine](https://addons-media.operacdn.com/media/CACHE/images/themes/45/141145/1.0-rev1/images/250342c7-b9f6-4cd6-993a-8e6784e9d58b/35a01618488fb43df8cf48dd4eb9ecf8.jpg) (noun)
 11. optimal (adjective)
 12. to obstruct
 13. rear (adjective)
