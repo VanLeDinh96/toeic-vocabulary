@@ -38,7 +38,7 @@
 18. visible (adjective)
 19. essential (adjective)
 20. alternative (adjective)
-21. well-being (noun)
+21. [well-being](https://i.imgur.com/acKB2p3.png) (noun)
 - **Emotional well-being**.
 - **Physical well-being**.
 - **Psychological well-being**.
