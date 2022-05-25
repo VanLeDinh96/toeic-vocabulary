@@ -23,6 +23,7 @@
 7. competitor (noun)
 8. to address
 - He **addressed** the audience
+- The policy fails to **address the needs** of the poor.
 9. brief (adjective)
 - A **brief** video.
 10. [engine](https://addons-media.operacdn.com/media/CACHE/images/themes/45/141145/1.0-rev1/images/250342c7-b9f6-4cd6-993a-8e6784e9d58b/35a01618488fb43df8cf48dd4eb9ecf8.jpg) (noun)
@@ -545,3 +546,11 @@
 209. to demand
 210. a sore problem
 211. adoption
+212. to adopt
+- Creating a subscription is the first step in adopting Azure.
+213. dedicated
+- A dedicated and trusted instance of Azure AD
+214. to get around = to get round = to overcome /ˌəʊvərˈkʌm/
+- She **overcame** injury to win the Olympic gold medal.
+- The two parties managed to **overcome** their differences on the issue.
+- A clever lawyer might find a way of **getting around** that clause.
