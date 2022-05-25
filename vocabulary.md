@@ -534,10 +534,10 @@
 153 test 6
 206. to assess
 151 test 6
-207. matinée (noun) `/ˌmætnˈeɪ/`
+207. matinee = matinée (noun) `/ˌmætnˈeɪ/`
 - It'll run nightly at 7.30pm with a 2.30pm **matinée** on the Saturday.
-- There's also a special matinee showing on the 8th at 2.30pm.
-- These screenings are also open to everyone else at normal weekday matinee ticket prices.
+- There's also a special **matinée** showing on the 8th at 2.30pm.
+- These screenings are also open to everyone else at normal weekday **matinée** ticket prices.
 208. an early-bird (idiom) `/ˈɜːrli/` `/bɜːrd/`
 - We've always been **early birds**, up at 5.30 or 6am.
 - **An early-bird** discount is sometimes available at the beginning of the season.
