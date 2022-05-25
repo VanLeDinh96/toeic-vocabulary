@@ -141,18 +141,18 @@
 - She has now reached the question stage of her development.
 - The only business experience she had was the goat dairy, the non-functional farm and a horse ranch that had been in the fetal stage for years.
 61. trial (noun)
-- He would simply have to learn by trial and error.
-- He may turn pale when the trial comes.
-- He was sent for trial and condemned to hard labor, I believe.
+- He would simply have to learn by **trial and error**.
+- He may turn pale when the **trial** comes.
+- He was sent for **trial** and condemned to hard labor, I believe.
 62. subject (noun)
-- Focus the camera on the subject.
-- That was the end of the conversation and neither of them brought the subject up again that night.
-- It's a subject I'd rather not discuss.
-- She forced the subject from her mind: Cô ấy buộc phải xóa bỏ chủ đề này ra khỏi tâm trí của mình.
+- Focus the camera on the **subject**.
+- That was the end of the conversation and neither of them brought the **subject** up again that night.
+- It's a **subject** I'd rather not discuss.
+- She forced the **subject** from her mind: Cô ấy buộc phải xóa bỏ chủ đề này ra khỏi tâm trí của mình.
 63. to seek
-- You seek to betray me as your predecessor did.
-- Perpetrators will seek you out.
-- It was a labor of loving service, untouched by the spirit of material gain, conferring upon the work of the older masters a dignity and poetic feeling which we vainly seek in much of the later work.
+- You **seek** to betray me as your predecessor did.
+- Perpetrators will **seek** you **out**.
+- It was a labor of loving service, untouched by the spirit of material gain, conferring upon the work of the older masters a dignity and poetic feeling which we vainly **seek** in much of the later work.
 64. portfolio (noun)
 - Late in the year 1813 he took up the portfolio of military affairs.
 - On the 5th of November, accordingly, Laffitte became minister-president of a government pledged to progress (mouvement), holding at the same time the portfolio of finance.
@@ -329,7 +329,7 @@
 - Smoke **drifted** across the room.
 121. to amend
 - He asked to see the **amended** version.
-- The law has been **amended** to read as follows:…
+- The law has been **amended** to read as follows.
 - Parliament will vote to **amend** the constitution.
 122. amendment (noun)
 - To **introduce/propose/table an amendment**
@@ -411,6 +411,8 @@
 - Parents are **obliged** by law to send their children to school.
 - I **felt obliged** to ask them to dinner.
 - He suffered a serious injury that **obliged** him to give up work.
+
+## May 23rd, 2022
 143. to compel
 144. to force
 145. party (noun)
@@ -420,6 +422,8 @@
 147. to compromise
 148. to consider
 149. to ponder
+
+## May 24th, 2022
 150. delicacy (noun)
 151. to offset
 152. forceful (adjective)
@@ -429,6 +433,8 @@
 155. auction (noun)
 156. to elude
 157. slump (noun)
+
+## May 25th, 2022
 158. legitimate (adjective)
 159. distinct (adjective)
 160. affiliate (noun)
@@ -440,6 +446,8 @@
 165. site (noun)
 166. spot (noun)
 167. constructive (adjective)
+
+## May 26th, 2022
 168. to designate
 169. to downsize
 170. fad (noun)
@@ -463,6 +471,8 @@
 176. venture (noun)
 - Joint **venture**.
 - **Venture** capital.
+
+## May 27th, 2022
 177. hazard (noun)
 178. compact (noun)
 179. treaty (noun)
@@ -476,6 +486,8 @@
 187. to breach
 188. signature (noun)
 189. signatory (noun)
+
+## May 28th, 2022
 190. quality (noun)
 191. quantity (noun)
 192. aisle (noun)
@@ -522,8 +534,13 @@
 153 test 6
 206. to assess
 151 test 6
-207. matinée
-208. early-bird
+207. matinée (noun) `/ˌmætnˈeɪ/`
+- It'll run nightly at 7.30pm with a 2.30pm **matinée** on the Saturday.
+- There's also a special matinee showing on the 8th at 2.30pm.
+- These screenings are also open to everyone else at normal weekday matinee ticket prices.
+208. an early-bird (idiom) `/ˈɜːrli/` `/bɜːrd/`
+We've always been **early birds**, up at 5.30 or 6am.
+**An early-bird** discount is sometimes available at the beginning of the season.
 209. to demand
 210. a sore problem
 211. adoption
