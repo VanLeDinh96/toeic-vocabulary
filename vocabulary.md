@@ -386,12 +386,31 @@
 137. contractual (noun)
 - **Contractual** obligation.
 - We have a **contractual** agreement.
-138. to obligate
-139. to constrain
-140. obligation (noun)
-141. commitment (noun)
-142. to oblidge
-- I'm **oblidged** to work overtime.
+
+## May 22nd, 2022
+138. obligated (adjective) `/ˈɑːblɪɡeɪtɪd/`
+- He felt **obligated** to help.
+139. to constrain `/kənˈstreɪn/`
+- The evidence was so compelling that he **felt constrained** to accept it.
+- The company said that it was **constrained** to raise prices.
+140. obligation (noun) `/ˌɑːblɪˈɡeɪʃn/`
+- You are **under no obligation** to buy anything.
+- She did not feel **under any obligation** to tell him the truth.
+- I don't want people coming to see me out of a **sense of obligation**.
+- We will send you an estimate for the work **without obligation**.
+141. commitment (noun) `/kəˈmɪtmənt/`
+- I'm not ready to **make a** long-term **commitment**.
+- They have failed to **honour their commitments**.
+- The company has **shown a commitment** to diversity over the years.
+- Australia is determined to **meet its commitments under** the agreement.
+- We're looking for a **firm commitment** from both sides.
+- This project **demonstrates our commitment** to improving the quality of the city's green spaces.
+- They **reaffirmed their commitment** to work for peace.
+142. to oblige `/əˈblaɪdʒ/`
+- I'm **obliged** to work overtime.
+- Parents are **obliged** by law to send their children to school.
+- I **felt obliged** to ask them to dinner.
+- He suffered a serious injury that **obliged** him to give up work.
 143. to compel
 144. to force
 145. party (noun)
@@ -491,3 +510,20 @@
 - **Impeccable taste**
 - Her written English is **impeccable**.
 - He was dressed in a suit and an **impeccable** white shirt.
+199. stationery (noun)
+200. state-of-the-art (adjective)
+130 test 5
+201. premise
+202. defect
+203. impact
+204. distraction
+153 test 5
+205. cordially (adverb)
+153 test 6
+206. to assess
+151 test 6
+207. matinée
+208. early-bird
+209. to demand
+210. a sore problem
+211. adoption
