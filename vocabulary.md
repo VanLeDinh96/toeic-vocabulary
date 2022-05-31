@@ -7,6 +7,7 @@
 - A **suburban** street
 - Life in **suburban** London
 3. downtown (noun)
+- I'm conducting research on the effect that the new **downtown** mall is having a local residents' shopping habits
 4. extreme (adjective)
 - The situation called for extreme measures.
 - Charles bared his teeth in a look of extreme displeasure.
@@ -292,7 +293,7 @@
 - To submit/present/put forward a **proposal**.
 107. in order to do something
 - To see if there's something I can do **in order to** prevent the inevitable, of course.
-108. regarding + noun = about + noun
+108. [regarding + noun = about + noun](https://www.toeicmoingay.com/hoi-dap/regards-vs-regarding)
 - He opened it to confirm his presumption **regarding** Sarah's hair.
 109. while + S + V, S + V
 - I don't want you to drive **while** you're so tired.
@@ -441,7 +442,7 @@
 159. distinct (adjective)
 160. affiliate (noun)
 161. to assemble
-162. to get together
+162. [to get together](https://4funlanguage.com/tai-lieu-hoc-tieng-anh/200-phrasal-verb-giup-luyen-thi-toeic-2021/)
 - I'm trying to **get a team together** for Saturday.
 163. to disperse
 164. gathering (noun)
@@ -554,3 +555,75 @@
 - She **overcame** injury to win the Olympic gold medal.
 - The two parties managed to **overcome** their differences on the issue.
 - A clever lawyer might find a way of **getting around** that clause.
+215. to intimidate
+- I want you to think like this, instead of being intimidated by the confusing name that is dynamic programming, you just need to know when a problem can use this technique.
+216. to deter
+- Don't let that deter you.
+https://www.collinsdictionary.com/dictionary/english/off-the-top-of-ones-head#:~:text=phrase,full%20dictionary%20entry%20for%20top
+https://idioms.thefreedictionary.com/can%27t+get+enough+of+something#:~:text=To%20love%20or%20thoroughly%20enjoy,of%20this%20new%20TV%20show.
+217. whitepaper
+- the Bitcoin whitepaper was created by the pseudo anonymous
+218. outline
+219. collectively
+220. rewarding (adjective)
+221. to purify
+222. reasonable (adjective)
+223. precipitation (noun)
+224. for/over + a period of time
+225. durable (adjective)
+226. lucrative (adjective)
+227. likewise (adverb)
+228. diligent (adjective)
+229. attendee (noun)
+230. merchandise (noun)
+231. [whereas](https://www.toeicmoingay.com/hoi-dap/while-va-whereas-khac-nhau-cho-nao)
+232. [to credit](https://www.toeicmoingay.com/hoi-dap/nghia-cua-credit)
+233. [yet another](https://www.toeicmoingay.com/hoi-dap/yet-another-nghia-la-gi)
+234. to enlist
+- For holistic development schools should **enlist** families as partners in their children's education.
+235. effect
+- The following changes will **go into effect** on January 2nd.
+236. capacity (noun)
+237. to pursue
+238. to get off
+239. persistent (adjective)
+240. world-renowned
+241. preference: thiên vị + for
+242. selection + of
+243. clerk (noun)
+244. roughly (adverb)
+- The clerk said that roughly 15% customers had been waiting outside the store for it to open.
+245. solitary (adjective)
+- The witness saw only a solitary figure standing near the lamp post shortly before the crime was committed.
+246. spare
+247. fanfare (noun): quảng cáo rầm rộ
+248. a great deal of press coverage: rất nhiều báo chí đưa tin
+We thought it would be a good idea to take in some of the animals because of the overcrowding in many of the shelters: Chúng tôi nghĩ rằng sẽ là một ý kiến hay nếu bạn nhận một số loài động vật vì sự quá đông đúc ở nhiều nơi trú ẩn
+249. to renovate
+250. [hype](https://thiepnhanai.com/hype-la-gi/)
+the hype hasn't slowed down
+251. [to take in](https://iievietnam.org/phrasal-verb-with-take/#:~:text=Take%20in%3A%20m%E1%BB%9Di%20v%C3%A0o%2C%20%C4%91%C6%B0a%20v%C3%A0o%2C%20%C4%91em%20v%C3%A0o&text=Ex%3A%20My%20family%20took%20in%20an%20orphan%20last%20week.&text=Ex%3A%20His%20mother%20has%20begun%20talking%20in%20sewing.)
+252. [to carry](https://tracnghiem.net/de-kiem-tra/cau-hoi-choose-the-correct-answer-in-each-sentence-during-the-holiday-season-schwartz-department-store-wi-390073.html)
+253. [to be in favor of](https://tracnghiem.net/de-kiem-tra/cau-hoi-choose-the-correct-answer-in-each-sentence-everyone-in-favor-of-shortening-working-hours-but-390083.html)
+254. prompty = immediately
+255. admission
+256. payday
+- It is changing the payday schedule
+257. sustainable
+- To promote sustainable living
+258. flyer
+- What is the purpose of the flyer?
+259. to flourish
+- The business is flourishing, exceeding expectations.
+260. expedition (noun)
+- Can we add some activities such as camping **expeditions** or something?
+261. payroll (noun)
+- This is important because Mr. Sans will not be trained to use our **payroll** software.
+262. placement
+- A temporary worker has been hired from a placement agency to fill in for Nancy during this time: Trong time này, 1 công nhân tạm thời được thuê lại từ 1công ty giới thiệu để thay cho Nancy.
+263. multipurpose (noun)
+- The design of the city's new multipurpose stadium
+264. lease (noun)
+- a lease has not been renewed
+265. lecturer (noun)
+266. superintendent (noun)
