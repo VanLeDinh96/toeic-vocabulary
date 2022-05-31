@@ -558,7 +558,7 @@
 215. to intimidate
 - I want you to think like this, instead of being intimidated by the confusing name that is dynamic programming, you just need to know when a problem can use this technique.
 216. to deter
-- [Don't let that deter you.](https://www.collinsdictionary.com/dictionary/english/off-the-top-of-ones-head#:~:text=phrase,full%20dictionary%20entry%20for%20top
+- [Don't let that deter you](https://www.collinsdictionary.com/dictionary/english/off-the-top-of-ones-head#:~:text=phrase,full%20dictionary%20entry%20for%20top
 https://idioms.thefreedictionary.com/can%27t+get+enough+of+something#:~:text=To%20love%20or%20thoroughly%20enjoy,of%20this%20new%20TV%20show).
 217. whitepaper
 - the Bitcoin whitepaper was created by the pseudo anonymous
@@ -579,7 +579,7 @@ https://idioms.thefreedictionary.com/can%27t+get+enough+of+something#:~:text=To%
 232. [to credit](https://www.toeicmoingay.com/hoi-dap/nghia-cua-credit)
 233. [yet another](https://www.toeicmoingay.com/hoi-dap/yet-another-nghia-la-gi)
 234. to enlist
-- For holistic development schools should **enlist** families as partners in their children's education.
+- [For holistic development schools should **enlist** families as partners in their children's education](https://moon.vn/hoi-dap/for-holistic-development-schools-should-families-as-partners-in-their-childrens-educ-773499).
 235. effect
 - The following changes will **go into effect** on January 2nd.
 236. capacity (noun)
