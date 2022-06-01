@@ -657,3 +657,30 @@ the hype hasn't slowed down
 - If the patient's **nasal** problem does not show signs of improvement within two days, he should visit the clinic again.
 276. procedural (adjective) `/prəˈsiːdʒərəl/`
 - The train delays on this line were cause by a **procedural** error at one of the stations.
+277. exterior (adjective)
+- This man asked for the banner to be hung on the **exterior** wall of the building.
+278. to issue `/ˈɪʃuː/`
+- They **issued** a joint statement denying the charges.
+- The president has the authority to **issue orders** to the military.
+- The new guidelines have been **issued** to all doctors.
+- A **warning was issued** yesterday by the government, asking people to stay in their homes.
+279. to retain `/rɪˈteɪn/`
+- He struggled to **retain control** of the situation.
+- She **retained** her tennis **title** for the third year.
+- In case you have problems with the device in the future, you should **retain** your newly issued receipt.
+280. permit (noun) `/ˈpɜːrmɪt/`
+- The agency **issued permits** for exploratory drilling.
+- Anyone making structural changes to a house must first apply for a **building permit**.
+281. to permit `/pərˈmɪt/`
+- Mobile phones are not **permitted** in the examination room.
+- Visitors are not **permitted** to take photographs.
+- There are fines for exceeding **permitted** levels of noise pollution.
+282. distinguished (adjective) `/dɪˈstɪŋɡwɪʃt/`
+- He has had a long and **distinguished** career in medicine.
+283. faculty (noun) `/ˈfæklti/`
+- The **Faculty** of Law.
+- students who are doing degrees in the Arts **Faculty**.
+- **Faculty** members.
+- In addition to its distinguished **faculty** in the science department, the university has state-of-the-art laboratory facilities.
+284. fundraiser (noun) `/ˈfʌndreɪzər/`
+- The donations received from the **fundraiser** will be divided among the charity's three locations equally.
