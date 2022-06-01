@@ -684,3 +684,52 @@ the hype hasn't slowed down
 - In addition to its distinguished **faculty** in the science department, the university has state-of-the-art laboratory facilities.
 284. fundraiser (noun) `/ˈfʌndreɪzər/`
 - The donations received from the **fundraiser** will be divided among the charity's three locations equally.
+285. to refrain `/rɪˈfreɪn/`
+- They appealed to the protesters to **refrain** from violence.
+- Both sides should **refrain** from actions that would make the situation worse.
+- Please **refrain** from smoking.
+286. to unfold `/ʌnˈfəʊld/`
+- She **unfolded** her arms.
+- The audience watched as **the story unfolded** before their eyes.
+- Dramatic events were about to **unfold**.
+287. appraisal (noun) `/əˈpreɪzl/`
+- He had read many detailed critical **appraisals** of her work.
+- She was honest in her **appraisal** of her team's chances.
+- The report has been subject to **appraisal**.
+- The project development team is partially responsible for the selection and **appraisal** of potential building sites.
+288. to solicit `/səˈlɪsɪt/`
+- They were planning to **solicit** funds from a number of organizations.
+- Volunteers are being **solicited** to assist with the project.
+- Prostitutes **solicited** openly in the streets.
+- The crime of **soliciting**.
+289. to occur `/əˈkɜːr/`
+- Naturally **occurring** substances (những chất có trong tự nhiên) are used in the vitamin supplement instead of chemicals.
+- When exactly did the **incident occur**?
+- Three major **events occurred** in my life that year.
+290. thereby (adverb) `/ˌðerˈbaɪ/`
+- The bus driver used a side street rather than the main highway, **thereby** avoiding rush hour traffic.
+- Regular exercise strengthens the heart, **thereby** reducing the risk of heart attack.
+291. to demolish `/dɪˈmɑːlɪʃ/`
+- The crew members will have **demolished** the main section of the building by the time the waste removal trucks arrive at 3:30.
+- The factory is due to be **demolished** next year.
+- The old slums are being **demolished** to make way for a new housing project.
+292. notch (noun) `/nɑːtʃ/`
+- The chefs are top **notch** and the food is second to none.
+293. fraction (noun) `/ˈfrækʃn/`
+- You can get tickets by calling a season's pass for a **fraction** of the price.
+294. itinerary (noun) `/aɪˈtɪnəreri/`
+- A detailed **itinerary**.
+- He drew up a detailed **itinerary**.
+- Visits to four different countries are included in your **itinerary**.
+295. submission (noun) `/səbˈmɪʃn/` = surrender
+- To **beat somebody into submission**.
+- His response was one of resistance, not **submission**.
+- When is the final date for the **submission** of proposals?
+- They prepared a report for **submission to** the council.
+296. outbound (adjective) `/ˈaʊtbaʊnd/`
+- The company will place **outbound** calls to potential customers.
+297. opening (noun) `/ˈəʊpənɪŋ/` = vacancy
+- There are several **openings** in the sales department.
+- We will keep you informed of any job **openings**.
+- She is the strongest candidate to fill this **opening**.
+- Most **openings** in the mills were for single women.
