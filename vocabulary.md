@@ -638,3 +638,8 @@ the hype hasn't slowed down
 - Should I come by your office in the morning to finish up the **paperwork**?
 273. fountain (noun)
 - When was that **fountain** installed in the park?
+274. to reflect
+- Our newspaper aims to **reflect the views** of the local community.
+- They are constantly revising the dictionary to **reflect changes** in language.
+275. nasal (noun)
+- If the patient's **nasal** problem does not show signs of improvement within two days, he should visit the clinic again.
