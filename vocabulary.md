@@ -626,3 +626,15 @@ the hype hasn't slowed down
 - a lease has not been renewed
 265. lecturer (noun)
 266. superintendent (noun)
+267. [parking meter](https://en.wikipedia.org/wiki/Parking_meter) (noun)
+268. mindful (adjective)
+269. congestion (noun)
+- The upcoming renovation of this airport will ease **congestion** and modernize guest accommodations.
+270. bids (noun)
+- We will review all four custodial-service **bids** and choose one that suits our needs.
+271. revision (noun)
+- The client asked for **revisions** to the images in the advertising text.
+272. paperwork (noun)
+- Should I come by your office in the morning to finish up the **paperwork**?
+273. fountain (noun)
+- When was that **fountain** installed in the park?
