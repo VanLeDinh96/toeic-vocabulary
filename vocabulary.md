@@ -604,42 +604,56 @@ the hype hasn't slowed down
 251. [to take in](https://iievietnam.org/phrasal-verb-with-take/#:~:text=Take%20in%3A%20m%E1%BB%9Di%20v%C3%A0o%2C%20%C4%91%C6%B0a%20v%C3%A0o%2C%20%C4%91em%20v%C3%A0o&text=Ex%3A%20My%20family%20took%20in%20an%20orphan%20last%20week.&text=Ex%3A%20His%20mother%20has%20begun%20talking%20in%20sewing.)
 252. [to carry](https://tracnghiem.net/de-kiem-tra/cau-hoi-choose-the-correct-answer-in-each-sentence-during-the-holiday-season-schwartz-department-store-wi-390073.html)
 253. [to be in favor of](https://tracnghiem.net/de-kiem-tra/cau-hoi-choose-the-correct-answer-in-each-sentence-everyone-in-favor-of-shortening-working-hours-but-390083.html)
-254. prompty = immediately
-255. admission
+254. promptly (adverb) `/ˈprɑːmptli/` = immediately
+- She deals with all the correspondence **promptly** and efficiently.
+255. admission (noun) `/ədˈmɪʃn/`
+- The university **admissions policy**.
+- The university **admissions office**.
+- Countries applying for **admission to** the European Union.
+- She failed to **gain admission** to the university of her choice.
+- Is there any charge for **admission**?
 256. payday
-- It is changing the payday schedule
-257. sustainable
-- To promote sustainable living
-258. flyer
-- What is the purpose of the flyer?
-259. to flourish
-- The business is flourishing, exceeding expectations.
+- It is changing the **payday** schedule
+257. sustainable (adjective) `/səˈsteɪnəbl/`
+- To promote **sustainable** living
+258. flyer (noun) `/ˈflaɪər/`
+- What is the purpose of the **flyer**?
+259. to flourish `/ˈflɜːrɪʃ/`
+- The business is **flourishing**, exceeding expectations.
 260. expedition (noun)
 - Can we add some activities such as camping **expeditions** or something?
 261. payroll (noun)
 - This is important because Mr. Sans will not be trained to use our **payroll** software.
 262. placement
-- A temporary worker has been hired from a placement agency to fill in for Nancy during this time: Trong time này, 1 công nhân tạm thời được thuê lại từ 1công ty giới thiệu để thay cho Nancy.
+- A temporary worker has been hired from a **placement** agency to fill in for Nancy during this time: Trong time này, 1 công nhân tạm thời được thuê lại từ 1công ty giới thiệu để thay cho Nancy.
+- A job **placement** service
 263. multipurpose (noun)
-- The design of the city's new multipurpose stadium
+- The design of the city's new **multipurpose** stadium.
 264. lease (noun)
-- a lease has not been renewed
-265. lecturer (noun)
-266. superintendent (noun)
+- A **lease** has not been renewed.
+265. lecturer (noun) `/ˈlektʃərər/`
+- She's a superb **lecturer**.
+266. superintendent (noun) `/ˌsuːpərɪnˈtendənt/`
+- She is a **superintendent** of this school.
 267. [parking meter](https://en.wikipedia.org/wiki/Parking_meter) (noun)
 268. mindful (adjective)
-269. congestion (noun)
+- **Mindful of** our responsibilities
+- **Mindful of** the danger of tropical storms, I decided not to go out.
+- She is **mindful that** the election result was very close last time.
+269. congestion (noun) `/kənˈdʒestʃən/`
 - The upcoming renovation of this airport will ease **congestion** and modernize guest accommodations.
-270. bids (noun)
+270. bid (noun) `/bɪd/`
 - We will review all four custodial-service **bids** and choose one that suits our needs.
-271. revision (noun)
+271. revision (noun) `/rɪˈvɪʒn/`
 - The client asked for **revisions** to the images in the advertising text.
-272. paperwork (noun)
+272. paperwork (noun) `/ˈpeɪpərwɜːrk/`
 - Should I come by your office in the morning to finish up the **paperwork**?
-273. fountain (noun)
+273. fountain (noun) `/ˈfaʊntn/`
 - When was that **fountain** installed in the park?
-274. to reflect
+274. to reflect `/rɪˈflekt/`
 - Our newspaper aims to **reflect the views** of the local community.
 - They are constantly revising the dictionary to **reflect changes** in language.
-275. nasal (noun)
+275. nasal (noun) `/ˈneɪzl/`
 - If the patient's **nasal** problem does not show signs of improvement within two days, he should visit the clinic again.
+276. procedural (adjective) `/prəˈsiːdʒərəl/`
+- The train delays on this line were cause by a **procedural** error at one of the stations.
