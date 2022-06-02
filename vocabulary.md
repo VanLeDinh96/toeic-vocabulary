@@ -733,3 +733,10 @@ the hype hasn't slowed down
 - We will keep you informed of any job **openings**.
 - She is the strongest candidate to fill this **opening**.
 - Most **openings** in the mills were for single women.
+298. souvenir (noun) `/ˈsuːvənɪr/` `/ˌsuːvəˈnɪr/` = memento
+- I bought the ring **as a souvenir of** Greece.
+- The shop increased the price of its merchandises in the section of **souvenirs** to compensate for the increased price of materials
+299. manufacturing (noun) `/ˌmænjuˈfæktʃərɪŋ/`
+- Many jobs in **manufacturing** were lost during the recession.
+- The company has established its first **manufacturing** base in Europe.
+- **Manufacturing** industry
